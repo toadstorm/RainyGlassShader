@@ -6,6 +6,6 @@ A Unity built-in shader for a plausible rain-on-glass effect. Has high-end and m
 
 This shader was constructed using Amplify Shader Editor. It uses a bit of math to animate the two included textures. The shader is fully parameterized so it can create rainy looks of varying intensities.
 
-The main shader uses a grabpass for the fake refraction effect. On Android, please use the mobile shader that doesn't use a grabpass. It's highly recommended that you edit this shader or any other grabpass shaders in your scene to ensure that they're named identically wherever possible to avoid performance loss.
+The main shader uses a grabpass for the fake refraction effect. On Android, please use the mobile shader that doesn't use a grabpass. It's highly recommended that you edit this shader or any other grabpass shaders in your scene to ensure that the grabpasses are named identically wherever possible to avoid performance loss.
 
 For information on how this shader was constructed, see this article: [https://www.toadstorm.com/blog/?p=742](https://www.toadstorm.com/blog/?p=742)
