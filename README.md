@@ -1,4 +1,7 @@
 # RainyGlassShader
+
+![rain sample](https://www.toadstorm.com/blog/wp-content/uploads/2021/02/raindrops_sphere_2.gif)
+
 A Unity built-in shader for a plausible rain-on-glass effect. Has high-end and mobile variants. As seen in ["The Conservatory"](https://vrchat.com/home/launch?worldId=wrld_2e37b570-7f57-46d5-9ef5-e33d1326c70b) on VRChat.
 
 This shader was constructed using Amplify Shader Editor. It uses a bit of math to animate the two included textures. The shader is fully parameterized so it can create rainy looks of varying intensities.
